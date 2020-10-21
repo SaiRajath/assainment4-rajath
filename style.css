@@ -14,9 +14,8 @@ body{
 
 .left{
     float: left;
-    width="50%"; 
-    height="100vh";
-    margin-left: 99.2px;
+    margin-left: 74.1px;
+    
    
 }
 
@@ -91,4 +90,6 @@ button{
     color: lightpink;
     font-weight: bold;
     font-size: larger;
+    margin: -80px;
+   
 }
